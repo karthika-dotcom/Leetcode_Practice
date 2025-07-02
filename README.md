@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0412-fizz-buzz) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2128-reverse-prefix-of-word) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
 |  |
