@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1063-best-sightseeing-pair) |
 | [1511-count-number-of-teams](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1511-count-number-of-teams) |
 | [2181-smallest-index-with-equal-value](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2181-smallest-index-with-equal-value) |
+| [2350-find-closest-number-to-zero](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2350-find-closest-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
