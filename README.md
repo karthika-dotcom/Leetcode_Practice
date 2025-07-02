@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1013-fibonacci-number) |
+| [2383-add-two-integers](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2383-add-two-integers) |
 ## Simulation
 |  |
 | ------- |
