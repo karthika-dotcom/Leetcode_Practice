@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2383-add-two-integers) |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2128-reverse-prefix-of-word) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
