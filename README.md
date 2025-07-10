@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [3859-maximum-product-of-two-digits](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/3859-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1013-fibonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1585-the-kth-factor-of-n) |
 | [2383-add-two-integers](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2383-add-two-integers) |
+| [3859-maximum-product-of-two-digits](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
