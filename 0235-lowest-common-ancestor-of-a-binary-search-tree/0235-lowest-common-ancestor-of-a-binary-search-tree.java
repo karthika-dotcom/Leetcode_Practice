@@ -15,6 +15,6 @@ class Solution {
         else if(root.val>p.val && root.val>q.val) root=root.left;
         else return root;
         }
-        return root;
+        return null;
     }
 }
