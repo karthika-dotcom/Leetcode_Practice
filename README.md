@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0585-investments-in-2016](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0619-biggest-single-number) |
 | [1153-product-sales-analysis-i](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1827-invalid-tweets) |
