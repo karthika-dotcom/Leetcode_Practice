@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-smallest-index-with-equal-value](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2181-smallest-index-with-equal-value) |
 | [2350-find-closest-number-to-zero](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2350-find-closest-number-to-zero) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0975-range-sum-of-bst) |
+## Greedy
+|  |
+| ------- |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 <!---LeetCode Topics End-->
