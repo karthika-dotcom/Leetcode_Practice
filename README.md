@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1063-best-sightseeing-pair) |
 | [1511-count-number-of-teams](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1511-count-number-of-teams) |
 | [1580-shuffle-the-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1580-shuffle-the-array) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2181-smallest-index-with-equal-value) |
 | [2350-find-closest-number-to-zero](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2350-find-closest-number-to-zero) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1013-fibonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1585-the-kth-factor-of-n) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2383-add-two-integers) |
 | [3859-maximum-product-of-two-digits](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
