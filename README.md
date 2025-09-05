@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1585-the-kth-factor-of-n) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2383-add-two-integers) |
+| [2507-number-of-common-factors](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2507-number-of-common-factors) |
 | [3859-maximum-product-of-two-digits](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1585-the-kth-factor-of-n) |
+| [2507-number-of-common-factors](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2507-number-of-common-factors) |
 ## Tree
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
