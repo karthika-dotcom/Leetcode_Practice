@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2831-number-of-beautiful-pairs](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2831-number-of-beautiful-pairs) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2831-number-of-beautiful-pairs](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2831-number-of-beautiful-pairs) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2350-find-closest-number-to-zero) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2831-number-of-beautiful-pairs](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2831-number-of-beautiful-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2507-number-of-common-factors) |
+| [2831-number-of-beautiful-pairs](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2831-number-of-beautiful-pairs) |
 | [3859-maximum-product-of-two-digits](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
 |  |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1585-the-kth-factor-of-n) |
 | [2507-number-of-common-factors](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2507-number-of-common-factors) |
+| [2831-number-of-beautiful-pairs](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2831-number-of-beautiful-pairs) |
 ## Tree
 |  |
 | ------- |
