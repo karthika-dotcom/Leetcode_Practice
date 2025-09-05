@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2507-number-of-common-factors) |
+| [2812-find-the-maximum-achievable-number](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2831-number-of-beautiful-pairs) |
 | [3859-maximum-product-of-two-digits](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
