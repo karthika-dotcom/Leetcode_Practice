@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0412-fizz-buzz) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2128-reverse-prefix-of-word) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1063-best-sightseeing-pair) |
 | [1511-count-number-of-teams](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1511-count-number-of-teams) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0392-is-subsequence) |
 | [2128-reverse-prefix-of-word](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
 |  |
