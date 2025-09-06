@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0459-repeated-substring-pattern) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
