@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0459-repeated-substring-pattern) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2507-number-of-common-factors) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
