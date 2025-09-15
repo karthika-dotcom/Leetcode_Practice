@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2594-count-pairs-of-similar-strings](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3811-reverse-degree-of-a-string](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/3811-reverse-degree-of-a-string) |
