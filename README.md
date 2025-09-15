@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2594-count-pairs-of-similar-strings](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2594-count-pairs-of-similar-strings) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3811-reverse-degree-of-a-string](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/3811-reverse-degree-of-a-string) |
 ## Counting
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2594-count-pairs-of-similar-strings) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2831-number-of-beautiful-pairs](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2831-number-of-beautiful-pairs) |
 ## Array
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2350-find-closest-number-to-zero) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2594-count-pairs-of-similar-strings) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2831-number-of-beautiful-pairs](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2831-number-of-beautiful-pairs) |
 ## Sorting
