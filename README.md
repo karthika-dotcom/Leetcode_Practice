@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2594-count-pairs-of-similar-strings](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2831-number-of-beautiful-pairs](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2831-number-of-beautiful-pairs) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2594-count-pairs-of-similar-strings](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2594-count-pairs-of-similar-strings) |
 | [3811-reverse-degree-of-a-string](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/3811-reverse-degree-of-a-string) |
 ## Counting
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2594-count-pairs-of-similar-strings](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2831-number-of-beautiful-pairs](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2831-number-of-beautiful-pairs) |
 ## Array
 |  |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-smallest-index-with-equal-value](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2181-smallest-index-with-equal-value) |
 | [2350-find-closest-number-to-zero](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2350-find-closest-number-to-zero) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2594-count-pairs-of-similar-strings](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2831-number-of-beautiful-pairs](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2831-number-of-beautiful-pairs) |
 ## Sorting
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1054-complement-of-base-10-integer) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2594-count-pairs-of-similar-strings](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2594-count-pairs-of-similar-strings) |
 ## Number Theory
 |  |
 | ------- |
