@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2831-number-of-beautiful-pairs) |
 | [3859-maximum-product-of-two-digits](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/3859-maximum-product-of-two-digits) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1585-the-kth-factor-of-n) |
 | [2507-number-of-common-factors](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2507-number-of-common-factors) |
 | [2831-number-of-beautiful-pairs](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2831-number-of-beautiful-pairs) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
 | ------- |
