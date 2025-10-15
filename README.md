@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0260-single-number-iii](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0260-single-number-iii) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1063-best-sightseeing-pair](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1063-best-sightseeing-pair) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0392-is-subsequence) |
 | [2128-reverse-prefix-of-word](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2128-reverse-prefix-of-word) |
