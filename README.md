@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0412-fizz-buzz) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0392-is-subsequence) |
 | [2128-reverse-prefix-of-word](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/2128-reverse-prefix-of-word) |
@@ -185,5 +187,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
