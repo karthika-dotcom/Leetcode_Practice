@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0260-single-number-iii) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1063-best-sightseeing-pair](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/1063-best-sightseeing-pair) |
@@ -193,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0459-repeated-substring-pattern) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/karthika-dotcom/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
